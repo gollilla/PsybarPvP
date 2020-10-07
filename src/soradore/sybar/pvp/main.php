@@ -1,6 +1,6 @@
 <?php
 
-namespace soradore\sybar\pvp\;
+namespace soradore\sybar\pvp;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\entity\Entity;
