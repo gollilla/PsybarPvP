@@ -11,7 +11,7 @@ use soradore\sybar\pvp\entity\Miner;
 use soradore\sybar\pvp\entity\Car;
 use soradore\sybar\pvp\entity\Car1;
 use soradore\sybar\pvp\entity\Car2;
-use soradore\sybar\pvp\entity\projectile\Rocket;
+//use soradore\sybar\pvp\entity\projectile\Rocket;
 use pocketmine\Player;
 
 class main extends PluginBase {
