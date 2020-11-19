@@ -1,6 +1,6 @@
 # PybarPvP
 ride a car  
-https://sybar.net
+http://sybar.net
 # How To Use
 0. Start server and you can see warning.
 1. You move folder - [images] of /resources/images/ to /plugin_data/PsybarPvP/  
